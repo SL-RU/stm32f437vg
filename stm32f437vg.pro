@@ -1,4 +1,4 @@
-update=Вт 09 авг 2016 20:37:42
+update=Пт 12 авг 2016 17:57:28
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../../../../home/lyra/KiCad/kicad-library/library
@@ -60,3 +58,5 @@ LibName28=contrib
 LibName29=valves
 LibName30=stm32
 LibName31=stm32f437vg
+[general]
+version=1
